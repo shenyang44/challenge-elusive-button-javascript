@@ -1,0 +1,18 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+footer {
+  font-size: 11px;
+  position: fixed;
+  bottom: 8px;
+  left: 0;
+  right: 0;
+  text-align: center;
+  color: #303030;
+}
+
+footer a {
+  text-decoration: none;
+  color: #303030;
+}
